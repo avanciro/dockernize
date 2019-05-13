@@ -1,8 +1,8 @@
 {
 	"name": "dockernize",
-	"version": "1.0.1",
+	"version": "1.0.2-alpha",
 	"description": "A better way to commiunicate with docker engine using NodeJS.",
-	"main": "src/init.js",
+	"main": "lib/Dockernize",
 	"author": "Shyamin Ayesh",
 	"license": "MIT",
 	"dependencies": {
