@@ -5,6 +5,7 @@
 	"main": "lib/Dockernize",
 	"author": "Shyamin Ayesh",
 	"license": "GPL-3.0-or-later",
+	"repository": "github:avanciro/dockernize",
 	"dependencies": {
 		"request": "^2.88.0"
 	}
