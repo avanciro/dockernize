@@ -26,7 +26,7 @@ This package contain the following base level API's
 | Engine  | ```docker.engine```  | Query about the engine  |
 | Images  | ```docker.images```  | Query about the images  |
 
-You can get more details about the API in our [wiki](avanciro/dockernize/wiki) section.
+You can get more details about the API in our [wiki](https://github.com/avanciro/dockernize/wiki) section.
 
 
 ## License
